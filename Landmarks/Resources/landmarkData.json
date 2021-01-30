@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Australian war memorial",
+        "category": "Museum",
+        "city": "Campbell",
+        "state": "ACT",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": " ",
+        "coordinates": {
+            "longitude": 149.12443930680547,
+            "latitude": -35.30819085768164
+        },
+        "description": "The Australian War Memorial is Australia's national memorial to the members of its armed forces and supporting organisations who have died or participated in wars involving the Commonwealth of Australia and some conflicts involving personnel from the Australian colonies prior to Federation. Opened in 1941, the memorial includes an extensive national military museum.",
+        "imageName": "war"
+    },
+    {
+        "name": "Tidbinbilla nature reserve",
+        "category": "Parks",
+        "city": "Paddys River",
+        "state": "ACT",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "  ",
+        "coordinates": {
+            "longitude": 149.12443930680547,
+            "latitude": -35.30819085768164
+        },
+        "description": "Tidbinbilla Nature Reserve is a 54.5 square kilometres protected area, on the fringe of Namadgi National Park. Tidbinbilla is a short drive from the capital city of Australia, Canberra, in the Australian Capital Territory. It is the traditional Country of the Ngunnawal people.",
+        "imageName": "tidbin"
+    },
+    {
+        "name": "Deep space complex",
+        "category": "research",
+        "city": "Paddys River",
+        "state": "ACT",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "  ",
+        "coordinates": {
+            "longitude": 149.12443930680547,
+            "latitude": -35.30819085768164
+        },
+        "description": "The Canberra Deep Space Communication Complex is a satellite communication station, part of the Deep Space Network of NASA's Jet Propulsion Laboratory, located at Tidbinbilla in the Australian Capital Territory",
+        "imageName": "space"
+    },
+    {
+        "name": "QUESTACON",
+        "category": "Museum",
+        "city": "Parkes",
+        "state": "ACT",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "  ",
+        "coordinates": {
+            "longitude": 149.12443930680547,
+            "latitude": -35.30819085768164
+        },
+        "description": "Questacon – the National Science and Technology Centre, is located in Canberra, Australia. It is a large centre with more than 200 interactive exhibits relating to science and technology. It has many science programs that are devoted to inspiring the children of Australia to love science.",
+        "imageName": "questacon"
+    },
+    {
+        "name": "National botanic gardens",
+        "category": "Gardens",
+        "city": "Action",
+        "state": "ACT",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "  ",
+        "coordinates": {
+            "longitude": 149.12443930680547,
+            "latitude": -35.30819085768164
+        },
+        "description": "The Australian National Botanic Gardens is a heritage-listed botanical garden located in Acton, Canberra, in the Australian Capital Territory, Australia. Established in 1949, the Gardens is administered by the Australian Government's Department of the Environment and Energy.",
+        "imageName": "botanic"
+    },
+    {
+        "name": "National zoo & aquarium",
+        "category": "zoom",
+        "city": "Yarralumla",
+        "state": "ACT",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "  ",
+        "coordinates": {
+            "longitude": 149.12443930680547,
+            "latitude": -35.30819085768164
+        },
+        "description": "The National Zoo and Aquarium is a privately owned 19-hectare zoo and aquarium in the Australian capital city of Canberra. It is located in Yarralumla at the western end of Lake Burley Griffin, next to Scrivener Dam. It recently had a major expansion, with 12 ha of open range exhibits opened in May 2017.",
+        "imageName": "zoom"
+    },
+    {
+        "name": "Parliament house",
+        "category": "Musume",
+        "city": "Canberra",
+        "state": "ACT",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "  ",
+        "coordinates": {
+            "longitude": 149.12443930680547,
+            "latitude": -35.30819085768164
+        },
+        "description": "Parliament House is the meeting place of the Parliament of Australia, located in Canberra, the capital of Australia. The building was designed by Mitchell/Giurgola & Thorp Architects and built by a Concrete Constructions and John Holland joint venture.It was opened on 9 May 1988 by Elizabeth II, Queen of Australia. It cost more than A$1.1 billion[2] to build. Federal Parliament meetings were held in Melbourne until 1927. Between 1927 and 1988, the Parliament of Australia met in the Provisional Parliament House, which is now known as 'Old Parliament House'. Construction of Australia's permanent Parliament House was delayed while its location was debated. Construction of the new building began in 1981. The principal design of the structure is based on the shape of two boomerangs and is topped by an 81-metre (266 ft) flagpole. Parliament House contains 4,700 rooms, and many areas are open to the public. The main foyer contains a marble staircase and leads to the Great Hall, which has a large tapestry on display. The House of Representatives chamber is decorated green, while the Senate chamber has a red colour scheme. Between the two chambers is the Members' Hall, which has a water feature and is not open to the public. The Ministerial Wing houses the Prime Minister's Office and other ministerial offices.",
+        "imageName": "parliament"
+    },
+    {
+        "name": "National museum of australia",
+        "category": "museum",
+        "city": "Acton",
+        "state": "ACT",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "  ",
+        "coordinates": {
+            "longitude": 149.12443930680547,
+            "latitude": -35.30819085768164
+        },
+        "description": "Australia's stories come alive at the National Museum of Australia, on the shores of Canberra’s Lake Burley Griffin. The Museum's stunning architecture provides an extraordinary place to explore the rich and diverse stories of Australia and its people.Take a guided tour or wander solo through the many exhibitions. Get to know the real, the treasured, the surprising and the inspirational objects from Australian history.At Kspace, the Museum's new interactive kids' adventure game played in teams of 4, kids design a time-travelling robot and enter a Time Pod blasting them back to a mystery location in Australia's past.For a treat, why not book The Ultimate Museum Experience with a personalised tour, a meal and refreshments overlooking Lake Burley Griffin and more!",
+        "imageName": "national museum"
+    },
+    {
+        "name": "Old Parliament house",
+        "category": "museum",
+        "city": "Parkes",
+        "state": "ACT",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "  ",
+        "coordinates": {
+            "longitude": 149.12443930680547,
+            "latitude": -35.30819085768164
+        },
+        "description": "Old Parliament House, formerly known as the Provisional Parliament House, was the seat of the Parliament of Australia from 1927 to 1988. The building began operation on 9 May 1927 after Parliament's relocation from Melbourne to the new capital, Canberra.",
+        "imageName": "old house"
+    },
+    {
+        "name": "Gibraltar Falls",
+        "category": "Falls",
+        "city": "Paddys River",
+        "state": "ACT",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "  ",
+        "coordinates": {
+            "longitude": 149.12443930680547,
+            "latitude": -35.30819085768164
+        },
+        "description": "The Gibraltar Falls are a cascade waterfall on the Gibraltar Creek, in the Australian Capital Territory, approximately 50 kilometres from Canberra's city centre, The falls have a 50-metre drop.",
+        "imageName": "falls"
+    },
+    {
+        "name": "Mount Stromlo Observatory",
+        "category": "Stromlo",
+        "city": "Stromlo",
+        "state": "ACT",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "  ",
+        "coordinates": {
+            "longitude": 149.12443930680547,
+            "latitude": -35.30819085768164
+        },
+        "description": "Mount Stromlo Observatory's observing facilities were damaged by the 2003 Canberra bushfires. The shell still remains and is popular with photographers. See spectacular views over Canberra and the Brindabellas and make use of the barbeque and picnic facilities.",
+        "imageName": "observatory"
+    },
+    {
+        "name": "Old Bus Depot Markets",
+        "category": "market",
+        "city": "Kingston",
+        "state": "ACT",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "  ",
+        "coordinates": {
+            "longitude": 149.12443930680547,
+            "latitude": -35.30819085768164
+        },
+        "description": "Lovers of fine hand-crafted wares, clothing collectors, food fanatics and jewellery junkies are just a few of the people who head to Canberra’s award winning Old Bus Depot Markets every Sunday. In a fabulous old industrial building you’ll experience the endless colour, tastes, sounds and atmosphere that is ",
+        "imageName": "market"
+    }
+]
